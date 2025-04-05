@@ -3,7 +3,7 @@
 This repository will help you in applying to jobs in LinkedIn with help of an AI bot.
 
 ## In 'config' folder
-1. Create a file ".env" and add the follwoing line of codes :-
+1. Create a file "**.env**" and add the follwoing line of codes :-
    ```
    LINKEDIN_EMAIL = youremail                  # no quotes
    LINKEDIN_PASSWORD = yourpassword            # no quotes
@@ -12,7 +12,7 @@ This repository will help you in applying to jobs in LinkedIn with help of an AI
    ```
 Replace your email and password used in your LinkedIn 
 
-2. In "config.json" update the phone number field with your phone number, update the job keywords associated with your profile and also the your preferred job locations.
+2. In "**config.json**" update the phone number field with your phone number, update the job keywords associated with your profile and also the your preferred job locations.
    ```
    {
    "job_keywords": ["Software Intern", "Web Development Intern", "Full Stack Intern", "Front-end Intern", "Back-end Intern"],
