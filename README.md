@@ -14,7 +14,7 @@ Replace your email and password used in your LinkedIn
    
    {
    "job_keywords": ["Software Intern", "Web Development Intern", "Full Stack Intern", "Front-end Intern", "Back-end Intern"],
-    "locations": ["Remote", "Banglore", "Mumbai", "Pune", "Hyderabad", "Delhi", "Gurgaon"],
+   "locations": ["Remote", "Banglore", "Mumbai", "Pune", "Hyderabad", "Delhi", "Gurgaon"],
    "phone_number": "9999999999",
    }
 
