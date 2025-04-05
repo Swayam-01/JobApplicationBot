@@ -1,0 +1,57 @@
+EXPERIENCE
+• Acmegrade[ ] April 2024 - June 2024
+Web Development Intern Remote, India
+◦ Developed an E-commerce website achieving robust security measures and responsive design.
+◦ Implemented SSL encryption and responsive designing, enhancing mobile traffic and conversions by 40%.
+◦ Conducted analysis on user behavior and sales metrics, providing valuable insights that informed business
+decisions and marketing strategies.
+EDUCATION
+• Pranveer Singh Institute of Technology 2022 - 2026
+B.tech - Computer Science with Artificial Intelligence Kanpur, India
+◦ GPA: - 7.9
+• Army Public School 2022
+Class XII Kanpur, India
+◦ Grade: 93.2%
+• Army Public School 2020
+Class X Kanpur, India
+◦ Grade: 92.8%
+PROJECTS
+• Project A: Developed an E-Commerce Website April 2024 - June 2024
+Tools: HTML, CSS, JavaScript, React, PHP, MySQL, XAMPP, OpenSSL [§ ]
+◦ Developed robust security measures and responsive design.
+◦ Implemented SSL encryption and responsive designing, enhancing mobile traffic and conversions by 40%.
+◦ Applied hashing to ensure password authentication.
+• Project B: Developed a Social Website for College October 2024 - Present
+Tools: Next Js, Clerk, Convex, Type Script, Redis, Next UI, Tailwind CSS, Docker [§ ]
+◦ Developed unique social platform that empowers students, mentors and communities within colleges to connect
+meaningfully .
+◦ Designed to foster collaboration, build communities and facilitate mentorship, it redefines campus social
+interactions.
+◦ Used multiple databases in order to reduce load and ensure optimized performance.
+SKILLS
+• Programming Languages:Java, JavaScript, Python, C++, C
+• Web Technologies: HTML, CSS, JavaScript, React, Next JS, Next UI, Type Script, Tailwind CSS, Node Js
+• Database Systems:MySQL, MongoDB, Clerk, Convex, PostgreSQL
+• Other Tools & Technologies:Git, GitHub, VS code, Bootstrap, Microsoft Teams
+• Research Skills:Analytical Thinking, Problem Solving, Project Management, Team Player
+• Designing Skills: Figma, ProtoPie
+HONORS AND AWARDS
+• Competition Finalist August 2024
+Code Gladiators 2024, TechGig [ ]
+◦ Ranked in top 50.
+◦ Problem solving skill using C++ and Python.
+VOLUNTEER EXPERIENCE
+• Volunteer Role A April 2019 - February 2022
+NCC [ ]
+◦ Being the Junior Under Officer, I commanded my battalion.
+◦ Our battalion received the Best Battalion Award.
+◦ Skills developed were Leadership, Team Management and Analytical Thinking
+CERTIFICATIONS
+• Infosys Springboard: Introduction to Artificial Intelligence August 2024
+• Infosys Springboard: Introduction to Deep Learning August 2024
+• Infosys Springboard: Natural Language Processing August 2024
+• Oasis Infobyte: Internship Appreciation July 2024
+• Acmegrade: Internship Completion June 2024
+ADDITIONAL INFORMATION
+Languages: English (Fluent), Hindi (Fluent)
+Interests: Singing, Touring, Chess, Drawing

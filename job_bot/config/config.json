@@ -1,0 +1,10 @@
+{
+    "job_keywords": ["Software Intern", "Web Development Intern", "Full Stack Intern", "Front-end Intern", "Back-end Intern"],
+    "locations": ["Remote", "Banglore", "Mumbai", "Pune", "Hyderabad", "Delhi", "Gurgaon"],
+    "max_applications_per_day": 3,
+    "min_similarity_score": 0.3,
+    "max_application_pages": 3,
+    "phone_number": "9999999999",  
+    "resume_pdf_path": "../data/resume.pdf"
+  }
+  
